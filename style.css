@@ -1,0 +1,24 @@
+/* global styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+.title {
+  font-size: 24px;
+}
+ul {
+  list-style: none;
+}
+/* global styles */
+
+header {
+  background-color: blue;
+}
